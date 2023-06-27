@@ -100,6 +100,3 @@ that I am used to.
     first actually programming in CUDA and it ended up pretty well. I am pretty disappointed that
     always the end of the semester is very full because I would have liked to have a lot more time
     in order to search about the Cuckoo and Bucketized Cuckoo implementations in order to use them.
-
-* References:
-    - [1]: https://burtleburtle.net/bob/hash/integer.html
